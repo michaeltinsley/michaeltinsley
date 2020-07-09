@@ -1,7 +1,8 @@
-### 👋 Hello
-
-- 🔭 I’m currently working on projects involving Python, Django, Docker, and machine learning
-- 🌱 I’m currently learning Golang and Kubernetes
-- 📚 I'm currently interested in efficient machine learnin and computer vision at the edge
+![Header](https://github.com/michaeltinsley/michaeltinsley/blob/master/headers/banner_1.png)
 
 
+Hi, I'm Mike. I am a machine learning engineer from the UK 🇬🇧🇪🇺.
+
+I work at [@smartia-tech](https://github.com/smartia-tech) as a machine learning engineer.
+
+I'm interested in efficient machine learning and computer vision at the edge
