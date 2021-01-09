@@ -6,7 +6,7 @@
   <a href="https://github.com/michaeltinsley/">GitHub</a>
 </p>
 
-I'm a __machine learning engineer__ based in the __Bristol, UK__. 
+I'm a __machine learning engineer__ based in the __Bristol, UK__.
 
 * 💼 Currently working at [@smartia-tech](https://github.com/smartia-tech) <br/>
 * 🤖 I'm interested in machine learning and computer vision in low-power and resource constrained environments <br/>
@@ -17,4 +17,4 @@ I'm a __machine learning engineer__ based in the __Bristol, UK__.
 
 ![Michael Tinsley's github stats](https://github-readme-stats.vercel.app/api?username=michaeltinsley&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=michaeltinsley&color=blue)
+![Profile View Counter](https://komarev.com/ghpvc/?username=michaeltinsley&color=blue)
