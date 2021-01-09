@@ -1,8 +1,11 @@
-![Header](https://github.com/michaeltinsley/michaeltinsley/blob/master/headers/banner_5.png)
+# Hi There 👋
 
+I'm a __machine learning engineer__ based in the __Bristol, UK__.
 
-Hi, I'm Mike. I am a machine learning engineer from the UK 🇬🇧🇪🇺.
+* 💼 Currently working at [@smartia-tech](https://github.com/smartia-tech) <br/>
+* 🤖 I'm interested in machine learning and computer vision in low-power and resource constrained environments <br/>
+* 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/michaeljtinsley/)
 
-I work at [@smartia-tech](https://github.com/smartia-tech) as a machine learning engineer.
+---
 
-I'm interested in efficient machine learning and computer vision at the edge.
+![Profile View Counter](https://komarev.com/ghpvc/?username=michaeltinsley&color=blue)
